@@ -15,19 +15,19 @@ The scripts create a configuration file that tells Claude Code to:
 
 ### Windows Users
 
-1. Download the `setup-claude-config.bat` file
+1. Download the `windows-claude-config.bat` file
 2. Double-click the file to run it
 3. You'll see a confirmation message when complete
 4. That's it!
 
 ### Mac Users
 
-1. Download the `setup-claude-config.sh` file
+1. Download the `mac-claude-config.sh` file
 2. Open Terminal (search for "Terminal" in Spotlight)
 3. Type the following commands (press Enter after each):
    ```bash
-   chmod +x ~/Downloads/setup-claude-config.sh
-   ~/Downloads/setup-claude-config.sh
+   chmod +x ~/Downloads/mac-claude-config.sh
+   ~/Downloads/mac-claude-config.sh
    ```
 4. You'll see a confirmation message when complete
 5. That's it!
