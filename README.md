@@ -40,6 +40,7 @@ Open a new terminal window and start Claude Code on any project. You should noti
 
 If you want to remove this configuration:
 
-**Windows:** Delete the file at `C:\Users\YourUsername\.clauderc`
+**Windows:** Delete the file at `C:\Users\YourUsername\.claude\CLAUDE.md`
 
-**Mac:** Delete the file at `~/.clauderc` (or run `rm ~/.clauderc` in Terminal)
+**Mac:** Delete the file at `~/.claude/CLAUDE.md` (or run `rm ~/.claude/CLAUDE.md` in Terminal)
+
